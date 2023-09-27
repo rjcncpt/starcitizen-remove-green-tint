@@ -34,6 +34,24 @@ Enjoy your enhanced Star Citizen experience!
 
 
 
+## SCREENSHOTS
+Vanilla -> Reshade
+![image](https://i.imgur.com/rcntFdI.png)
+![image](https://i.imgur.com/ZkXsc5e.jpg)
+
+![image](https://i.imgur.com/rWWkoT7.png)
+![image](https://i.imgur.com/vdxQvoi.jpg)
+
+![image](https://i.imgur.com/hXDgs55.jpg)
+![image](https://i.imgur.com/K7RQun5.jpg)
+
+![image](https://i.imgur.com/rkkHm0M.png)
+![image](https://i.imgur.com/SRLi0nn.jpg)
+
+![image](https://i.imgur.com/HI8Ktng.png)
+![image](https://i.imgur.com/VyMfaEq.jpg)
+
+
 
 ## SHADERS LIST
 These shaders are used:
