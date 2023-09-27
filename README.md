@@ -1,13 +1,11 @@
 # Star Citizen "Reshade Better look" Readme
 
-The main task is that the preset removes the green shading and performs a color correction.
-The green shading is such a thing, not all people see it. You can discuss this endlessly :)
-Many people have red/green blindness and they do not see slight green or red shades. 
-Which is why the image is seen as neutral for these people. 
+The main task is that the preset removes the green shading and performs color correction. The green shading is one of those things that not all people see. You can discuss about it endlessly :) You can test if you suffer from red/green blindness pretty easily on this website: https://www.colorlitelens.com/color-blindness-test.html#Redgreen
 
-We who see green shading have to correct for that. And that's what this preset does. 
-The preset also raises the contours a bit and makes for a more vivid and clear image. 
-The look also goes a bit in the blue/purple direction. It's just more natural.
+We, who see green shades almost 100%, have to correct the image in Star Citizen. And that's exactly what this preset does.  
+
+### What else does the preset do?
+The preset raises the contours and contrasts a bit and makes for a more vivid and clear image. It also applies color correction. Basically, the preset creates a more natural look.
 
 
 
