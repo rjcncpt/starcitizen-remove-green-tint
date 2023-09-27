@@ -25,8 +25,10 @@ We recommend testing these settings in different environments, e.g. hangars.
 ## INSTALLATION
 To install this package, do the following:
 
-1. copy the "Bin64" folder from this package to your Star Citizen directory.
-2. replace all existing files when prompted.
+1. Download the zip file and unzip it
+   https://github.com/rjcncpt/StarCitizenBetterLookReshade/releases
+3. copy the "Bin64" folder from this package to your Star Citizen directory.
+4. replace all existing files when prompted.
 
 Please note that this package contains some shaders that you may already have installed.
 
