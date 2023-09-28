@@ -1,4 +1,4 @@
-# Star Citizen "Reshade Better look" Readme
+# Better look and remove green tint for Star Citizen
 
 The main task is to remove the green tint, make a color correction and give the flat look a little more depth. 
 
