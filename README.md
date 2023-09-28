@@ -1,16 +1,18 @@
 # Star Citizen "Reshade Better look" Readme
 
-The main task is that the preset removes the green shading and performs color correction. The green shading is one of those things that not all people see. You can discuss about it endlessly :) You can test if you suffer from red/green blindness pretty easily on this website: https://www.colorlitelens.com/color-blindness-test.html#Redgreen
+The main task is to remove the green tint, make a color correction and give the flat look a little more depth. 
 
-We, who see green shades almost 100%, have to correct the image in Star Citizen. And that's exactly what this preset does.  
+The green tint is one of those things that not all people can see. You can easily test if you have red-green blindness [on this website](https://www.colorlitelens.com/color-blindness-test.html#Redgreen). You can also check out the first screenshot at Maria Hospital. If you see a green tint [in this picture](https://i.imgur.com/rcntFdI.png).
+
+We, who see green tones almost 100%, have to correct the image in Star Citizen if the green tint bothers us. And that's exactly what this preset does.  
 
 ### What else does the preset do?
-The preset raises the contours and contrasts a bit and makes for a more vivid and clear image. It also applies color correction. Basically, the preset creates a more natural look.
+The preset raises the contours and contrasts a bit and provides a more vivid and clear image. Color correction is also applied. Basically, the preset provides a more natural look and natural whites and blacks.
 
 
 
 ## IMPORTANT
-If you do not normally notice green shading and Star Citizen looks normal to you, you should use the "Reshade - Better look (green blindness).ini" configuration file. Otherwise, the "Reshade - Better look.ini" configuration file may result in excessive blue shading.
+If you normally do not notice a green tint and Star Citizen looks normal to you, you should use the "Reshade - Better look (green blindness).ini" configuration file. Otherwise, the "Reshade - Better look.ini" configuration file may cause excessive blue shading.
 
 I recommend testing these settings in different environments, such as hangars.
 
@@ -20,10 +22,10 @@ I recommend testing these settings in different environments, such as hangars.
 ## INSTALLATION
 To install this package, do the following:
 
-1. Download the zip file and unzip it
-   https://github.com/rjcncpt/StarCitizenBetterLookReshade/releases
+1. Download the [zip file](https://github.com/rjcncpt/StarCitizenBetterLookReshade/releases) and unzip it
 3. copy the "Bin64" folder from this package to your Star Citizen directory.
 4. replace all existing files when prompted.
+5. Test both presets in different environments
 
 Please note that this package contains some shaders that you may already have installed.
 
