@@ -54,7 +54,7 @@ Vanilla -> Reshade
 
 
 ## SHADERS LIST
-These shaders are used:
+These shaders are included in the package and are partially used:
 - Clarity.fx
 - ContrastStretch.fx
 - FakeHDR.fx
