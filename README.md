@@ -12,7 +12,7 @@ The preset raises the contours and contrasts a bit and provides a more vivid and
 
 
 ## IMPORTANT
-If you normally do not notice a green tint and Star Citizen looks normal to you, you should use the "Reshade - Better look (green blindness).ini" configuration file. Otherwise, the "Reshade - Better look.ini" configuration file may cause excessive blue shading.
+If you normally do not notice a green tint and Star Citizen looks normal to you, you should use the **`Reshade - Better look (green blindness).ini`** configuration file. Otherwise, the "Reshade - Better look.ini" configuration file may cause excessive blue shading.
 
 I recommend testing these settings in different environments, such as hangars.
 
