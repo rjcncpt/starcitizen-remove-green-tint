@@ -2,7 +2,9 @@
 
 The main task is to remove the green tint, make a color correction and give the flat look a little more depth. 
 
-The green tint is one of those things that not all people can see. You can easily test if you have red-green blindness [on this website](https://www.colorlitelens.com/color-blindness-test.html#Redgreen). You can also check out the first screenshot at Maria Hospital.
+The green tint is one of those things that not all people can see. You can easily test [on this website] if you are red-green blind (https://www.colorlitelens.com/color-blindness-test.html#Redgreen). Or check out the test image with a very difficult example. Can you see the gap between the inner ring? Or look at the first screenshot at Maria Hospital.
+
+![image](https://i.imgur.com/q4WpJLU.png)
 
 We, who see green tones almost 100%, have to correct the image in Star Citizen if the green tint bothers us. And that's exactly what this preset does.  
 
