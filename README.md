@@ -2,8 +2,6 @@
 
 The main task is to remove the green cast, apply color correction, and add a little more depth to the flat look. The green cast is one of those things that not all people can see. You can easily test [on this website](https://www.colorlitelens.com/color-blindness-test.html#Redgreen) if you are red-green blind. Or check out the test image with a very difficult example. Can you see the gap between the inner ring? Or look at the first screenshot at Maria Hospital.
 
-We, who can see green almost 100%, have to correct the image in Star Citizen if the green cast bothers us. And that's exactly what this preset does.
-
 ![image](https://i.imgur.com/q4WpJLU.png)
 
 We, who see green tones almost 100%, have to correct the image in Star Citizen if the green tint bothers us. And that's exactly what this preset does.  
