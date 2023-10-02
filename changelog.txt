@@ -1,8 +1,8 @@
 ###########################################################################################
-# name          Star Citizen - Better Spectrum Dark Theme				  #
-# namespace     https://github.com/rjcncpt/SpectrumDarkMode				  #
-# description   This extension changes the appearance of Spectrum and some RSI web pages. #
-#		You must have the dark mode enabled.					  #
+# name          Remove green tint for Star Citizen Readme				  #
+# namespace     https://github.com/rjcncpt/starcitizen-remove-green-tint		  #
+# description   The main task is that the preset removes the green shading and performs	  #
+		a color correction.					  		  #
 # author        rjcncpt									  #
 ###########################################################################################
 
