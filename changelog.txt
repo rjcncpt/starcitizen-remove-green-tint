@@ -1,0 +1,12 @@
+###########################################################################################
+# name          Star Citizen - Better Spectrum Dark Theme				  #
+# namespace     https://github.com/rjcncpt/SpectrumDarkMode				  #
+# description   This extension changes the appearance of Spectrum and some RSI web pages. #
+#		You must have the dark mode enabled.					  #
+# author        rjcncpt									  #
+###########################################################################################
+
+CHANGELOG
+1.0.1
+Removed shader: ContrastStretch.fx, LumaSharpen.fx
+New shader: 	qUINT_sharp.fx
