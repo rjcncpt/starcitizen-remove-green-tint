@@ -56,10 +56,8 @@ Vanilla -> Reshade
 ## SHADERS LIST
 These shaders are included in the package and are partially used:
 - Clarity.fx
-- ContrastStretch.fx
 - FakeHDR.fx
 - Lightroom.fx
-- LumaSharpen.fx
 - ReShade.fxh 	(is needed to compile the shaders)
 - ReShadeUI.fxh (is needed to compile the shaders)
 - Tonemap.fx
@@ -72,3 +70,4 @@ These shaders are included in the package and are partially used:
 
 -- qUINT (https://github.com/martymcmodding/qUINT/tree/master/Shaders)
    - qUINT_lightroom.fx
+   - qUINT_sharp.fx
